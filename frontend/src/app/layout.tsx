@@ -5,8 +5,8 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Intelligent Traffic System Command Center",
-  description: "Smart City real-time traffic monitoring, congestion log analytics, and intersection status control dashboard.",
+  title: "AeroMind Traffic Center — Intelligent Command Center",
+  description: "AeroMind Traffic Center: AI-powered Smart City real-time traffic monitoring, adaptive signal control, YOLOv8 object detection, and emergency green corridor management.",
 };
 
 export default function RootLayout({
